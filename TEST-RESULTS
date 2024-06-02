@@ -1,0 +1,7 @@
+nu s-au identificat majore în cadrul testelor de acceptare
+
+acceptă prioritatea operaţiilor de calcul si calculeaza corect in cazul operatiilor aritmetice de baza cu numere intregi, pozitive
+
+Calculator oferă rezultatul corect, asteptat
+
+in cazul in care al doilea numar a fost negativ(-3), a imprimat mesajul ERROR
